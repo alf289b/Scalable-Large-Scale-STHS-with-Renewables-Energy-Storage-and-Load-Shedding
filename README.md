@@ -30,7 +30,7 @@ Follow the steps below:
 
 1.Download the Matlab codes folder.
 
-2.Open the "Results_graphs_IEEE_Latin_American_2" file.
+2.Open the "Results_graphs_GITHUB_2.m" file.
 
 3.Add the path of the downloaded folder to the Matlab path.
 
